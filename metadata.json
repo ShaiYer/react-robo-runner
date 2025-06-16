@@ -1,0 +1,5 @@
+{
+  "name": "Robot Runner Game",
+  "description": "A simple and fun infinite runner game where you control a robot to jump over obstacles. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
