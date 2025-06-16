@@ -1,0 +1,42 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+.vite/
+
+# Local env files
+.env*
+!.env.example
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+bun.lockb
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# GitHub Pages (optional: if you use gh-pages branch, this avoids tracking it locally)
+gh-pages/
+
+# Optional: lock files (depending on your package manager)
+# Uncomment the one(s) you are not using
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Optional: TypeScript cache
+*.tsbuildinfo
+
+# macOS resource fork files
+._*
